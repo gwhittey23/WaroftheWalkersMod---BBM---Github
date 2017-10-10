@@ -2791,6 +2791,19 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="mechanicalParts" count="10"/>
 </recipe>
 
+<recipe name="cementMixer" count="1" craft_area="AdvancedToolWorkbench">
+	<ingredient name="forgedIron" count="25"/>
+	<ingredient name="spring" count="4"/>
+	<ingredient name="HDSmallEngine" count="1"/>
+	<ingredient name="mechanicalParts" count="10"/>
+</recipe>
+<recipe name="cementMixer" count="1" craft_area="AdvancedToolWorkbench">
+	<ingredient name="forgedIron" count="25"/>
+	<ingredient name="spring" count="4"/>
+	<ingredient name="ECOSmallEngine" count="1"/>
+	<ingredient name="mechanicalParts" count="10"/>
+</recipe>
+
 <recipe name="forge" count="1">
 	<ingredient name="rockSmall" count="50"/>
 	<ingredient name="clayLump" count="50"/>
